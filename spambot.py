@@ -44,7 +44,7 @@ ban = """\033[1;31m
 \033[1;35m Donate MOMO app: 0349829457
 \033[1;37m Share with Copyright 
 \033[1;35m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
-  Lưu Ý:
+  Attention:
   * Are you sure ?
   * This may have legal implications.
   * Make sure you're not drunk !
