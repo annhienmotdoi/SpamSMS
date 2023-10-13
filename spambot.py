@@ -3518,7 +3518,7 @@ def run(sdt,i):
   threading.submit(KILO,sdt)
   threading.submit(GAPO,sdt) 
   print("[ Copyright © by AT ] Send SMS - Call | Delay : 50 | Success ",)  
-	dl = int(input(f'{thanh_xau}{luc} Delay: {vang}'))
+	dl = int(50)
   for j in range(0, 50):
     # code in croll
     print(f"[ Copyright © by AT] | LOADING \r",end="")
