@@ -6,7 +6,7 @@ ban = """\033[1;31m
 \033[1;35m Connected To Server...
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 
-  ☆ ·.¸(`’·.¸*¤*¸.·’´)¸.·
+☆ ·.¸(`’·.¸*¤*¸.·’´)¸.·
 ».·º`·.LOVE.·´º·.«
 ☆.·'(¸.·’´*¤*`’·.¸)`’·.
 、、、、、、
@@ -22,8 +22,7 @@ ban = """\033[1;31m
 ».·º`· .EVER.·´º·.«
 ☆.·'(¸.·’´*¤*`’·.¸)`’·.
 、、、、、、
-。ーゞ丷 My |0Ｖ3
-☆。ღHAPPYღ。☆
+。ーゞ丷☆。ღHAPPYღ。☆
 
 \033[1;35m 
 \033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -3519,10 +3518,10 @@ def run(sdt,i):
   threading.submit(spamcall,sdt)
   threading.submit(KILO,sdt)
   threading.submit(GAPO,sdt) 
-  print("[ Copyright © by AT:0933954440 ] Send SMS - Call | Delay : 5 | Success ",)  
-  for j in range(0, 5):
+  print("[ Copyright © by AT ] Send SMS - Call | Delay : 5 | Success ",)  
+  for j in range(0, 50):
     # code in croll
-    print(f"[ Copyright © by AT:0933954440] | LOADING \r",end="")
+    print(f"[ Copyright © by AT] | LOADING \r",end="")
     # code by AT
 for i in range(1,count+1):
   run(sdt,i)
