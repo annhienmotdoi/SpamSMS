@@ -21,8 +21,7 @@ ban = """\033[1;31m
 ☆·.¸(`’·.¸*¤*¸.·’´)¸.·
 ».·º`· .EVER.·´º·.«
 ☆.·'(¸.·’´*¤*`’·.¸)`’·.
-、、、、、、
-。ーゞ丷☆。ღHAPPYღ。☆
+
 
 \033[1;35m 
 \033[1;37m ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
@@ -53,7 +52,7 @@ sdt = input("[ + ] Phone number,pls: ")
 while not re.search("^(0?)(3[2-9]|5[6|8|9]|7[0|6-9]|8[0-6|8|9]|9[0-4|6-9])[0-9]{7}$",sdt):
   print("⚜ Format wrong !!")
   sdt = input("[ + ] Phone number again, please: ")
-count = int(input("[ + ] Number of SMS / Call: "))
+count = int(input("[ + ] Roll job (200+) : "))
 if sdt == "0933954440":
   print("Wrong choice, one again, please ! ")
   exit()
